@@ -1,2 +1,4 @@
 # Digital-Image-Analysis-and-Experimentation
-to fulfill the requirements for assignment 1 for the digital image processing course
+Before running the code, make sure you have installed the image package: 
+pkg install -forge image
+pkg load image
